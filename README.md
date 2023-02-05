@@ -1,2 +1,2 @@
 # trab-1
-Duas página falando de um animal exótico
+Duas página de html falando de um animal exótico
